@@ -11,6 +11,7 @@
       </Comment>
     </Member>
     <Member Name="test" Datatype="Bool" />
+    <Member Name="urthiugtrhg" Datatype="Bool" />
   </Section>
 </Sections></Interface>
       <MemoryLayout>Optimized</MemoryLayout>
