@@ -42,11 +42,11 @@
         <AttributeList>
           <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v4">
   <Parts>
-    <Access Scope="LiteralConstant" UId="21">
-      <Constant>
-        <ConstantType>Bool</ConstantType>
-        <ConstantValue>true</ConstantValue>
-      </Constant>
+    <Access Scope="GlobalVariable" UId="21">
+      <Symbol>
+        <Component Name="Test_DB" />
+        <Component Name="test" />
+      </Symbol>
     </Access>
     <Call UId="22">
       <CallInfo Name="TestBlock" BlockType="FC">

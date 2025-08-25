@@ -10,6 +10,7 @@
         <MultiLanguageText Lang="en-US">Dilly dally</MultiLanguageText>
       </Comment>
     </Member>
+    <Member Name="test" Datatype="Bool" />
   </Section>
 </Sections></Interface>
       <MemoryLayout>Optimized</MemoryLayout>
